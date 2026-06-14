@@ -1,0 +1,20 @@
+# Dépendances / build
+node_modules
+dist
+
+# Secrets / variables d'environnement
+.env
+.env.local
+.env.*.local
+
+# Outils Claude Code / agents
+.claude/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+
+# Documentation interne (specs / plans)
+docs/
+
+# Système
+.DS_Store
